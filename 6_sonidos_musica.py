@@ -44,4 +44,3 @@ while running:
     window.blit(enemy_image, enemy.topright)
     pygame.display.update()
 
-# ... (código posterior)

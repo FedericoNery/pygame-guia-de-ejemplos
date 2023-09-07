@@ -48,4 +48,3 @@ while running:
     pygame.display.update()
     clock.tick(60)  # Limitar a 60 FPS
 
-# ... (código posterior)
